@@ -5,6 +5,7 @@ A minimal setup to get the ROS2 UR driver up and running with the `cartesian_con
 ## Setup
 
 To get this up & running:
+- install [these controllers](https://github.com/fzi-forschungszentrum-informatik/cartesian_controllers/tree/ros2)
 - download the package and build it with colcon
 - source the workspace
 - start UR10e robot and controllers: `ros2 launch cartesian_controllers_universal_robots robot.launch.py`
