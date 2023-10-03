@@ -14,7 +14,7 @@ from launch_ros.substitutions import FindPackageShare
 
 
 def generate_launch_description():
-    this_pkg = FindPackageShare("cartesian_controllers_universal_robots")
+    this_pkg = FindPackageShare("cartesian_controllers_ur")
 
     # Declare arguments
     arg_robot_ip = DeclareLaunchArgument(

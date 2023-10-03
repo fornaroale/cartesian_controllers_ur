@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.8)
-project(cartesian_controllers_universal_robots)
+project(cartesian_controllers_ur)
 
 find_package(ament_cmake REQUIRED)
 

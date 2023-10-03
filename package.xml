@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <?xml-model href="http://download.ros.org/schema/package_format3.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
 <package format="3">
-  <name>cartesian_controllers_universal_robots</name>
+  <name>cartesian_controllers_ur</name>
   <version>0.0.0</version>
   <description>An easy-to-start configuration for cartesian_controllers on Universal Robots</description>
   <maintainer email="scherzin@fzi.de">Stefan Scherzinger</maintainer>
